@@ -1,3 +1,4 @@
+1/10
 # Observation
 
 - The text exceeded the 2000 character limit and it's around 2000 words, most likely that the writer misunderstood 2000 characters as 2000 words and this should be addressed.
